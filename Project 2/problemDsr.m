@@ -5,7 +5,7 @@
 clear, clc
 global betta tetta r g gridx vpfun epsi probepsi ne nx min_cons
 
-% PROBLEM D: FINITE TIME HORIZON
+% PROBLEM D: FINITE TIME HORIZON WITH SURVIVAL RATE
 % -------------------------------------------------------------------------
 % SETTINGS
 tol=1e-4;
