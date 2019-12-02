@@ -3,7 +3,7 @@
 % solution for c1 in the case of no taste shocks
 % Marta Oliva Riera
 % +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-function [fun] = 3Afun_closed(grid,fun,param)
+function [fun] = A3fun_closed(grid,fun,param)
 
     disp('get closed form solutions for comparison');
 
